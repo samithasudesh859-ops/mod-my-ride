@@ -28,7 +28,7 @@ The primary objective of this Proof-of-Concept (PoC) is to demonstrate the techn
 To get this project up and running on your local machine, follow these commands in your terminal:
 
 ```bash
-git clone [https://github.com/samithasudesh859-ops/mod-my-ride](https://github.com/samithasudesh859-ops/mod-my-ride)
+git clone https://github.com/samithasudesh859-ops/mod-my-ride.git
 cd mod-my-ride
 npm install
 npm run dev
